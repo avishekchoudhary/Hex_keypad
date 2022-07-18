@@ -1,2 +1,2 @@
 # Hex_keypad
-![ScreenShot](/output_waveform.png)
+![ScreenShot](/outut_waveform.png)
